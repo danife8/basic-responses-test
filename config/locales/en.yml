@@ -31,3 +31,8 @@
 
 en:
   hello: "Hello world"
+  requests:
+    errors:
+      200: "Everything is working correctly"
+      404: "Social network not found"
+      500: "Something went wrong. Try again later"
